@@ -79,3 +79,8 @@ article h3 {
     margin: 4px;
   }
 }
+footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
